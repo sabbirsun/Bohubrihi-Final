@@ -23,6 +23,9 @@ body{
 .bg-redtype{
     background-color: #FC8580 ;
 }
+.bg-redtype:hover{
+    color: rgb(81, 199, 27)!important;
+}
 .redtype-color{
     color: #FC8580;
 }
@@ -35,6 +38,12 @@ body{
 .project-container{
     background-color: #2DB1E1;
 }
-.from-container{
+.form-container{
     background-color: #474D5F;
+}
+.bumpy-box{
+    font-size: 72px;
+}
+.inner-form{
+    background-color: #586078;
 }
