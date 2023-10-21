@@ -47,7 +47,7 @@ body{
 .inner-form{
     background-color: #586078;
 }
-.footer-container{
+.footer{
     background-color: #1A86B7;
 }
 .circle-important{
@@ -55,7 +55,7 @@ body{
     height: 60px;
     border-radius: 50%;
     display: inline-block;
-    background-color: white;
+    background-color: gray;
     font-size: 40px;
     text-align: center;
     color: #FC8580;
